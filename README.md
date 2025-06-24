@@ -73,7 +73,8 @@ The final report included **five interactive pages**:
 
 2. A Multi-Dimensional Breakdown (Decomposition Tree)
   
-   ![A multi dimensional breakdown](https://github.com/user-attachments/assets/796b3c27-b7e1-421c-9eeb-ba71521be763)
+   ![A multi dimensional breakdown](https://github.com/user-attachments/assets/8b005001-fbed-4f74-bbf4-de6f2b2fd5e1)
+
 
    
 3. Contents & Platform Performance
@@ -87,7 +88,8 @@ The final report included **five interactive pages**:
 5. Info Page & Home page
    ![info page](https://github.com/user-attachments/assets/b75ad70c-c813-4733-bb61-ae5aec941c53)
 
-   ![home page](https://github.com/user-attachments/assets/efbcf12d-f71a-4645-a4ae-d4da9b6595c9)
+   ![home page](https://github.com/user-attachments/assets/68306134-c3e8-4f48-aaaf-7cd6819e9595)
+
 
 
 ---

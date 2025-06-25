@@ -90,8 +90,9 @@ The final report included **five interactive pages**:
 
    ![home page](https://github.com/user-attachments/assets/68306134-c3e8-4f48-aaaf-7cd6819e9595)
 
+Check the live interactive report here👇👇👇
 
-
+https://app.powerbi.com/view?r=eyJrIjoiYmVkOWMzYjgtYzAzNy00M2I1LWIzNjItNDAyZWFkOWUwNWRiIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 ---
 
 ## 7. Challenges
